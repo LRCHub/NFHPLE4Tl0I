@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Kataomoi",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-18T01:38:50.313868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kataomoi",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_Kataomoi_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hyadain no Kakakata Kataomoi-C",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/02_Hyadain_no_Kakakata_Kataomoi-C_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kataomoi",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_Kataomoi_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kataomoi (5th Anniversary Live version)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Kataomoi_(5th_Anniversary_Live_version)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hyadain no Kakakata☆Kataomoi-C (without Hyadaruko)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/05_Hyadain_no_Kakakata☆Kataomoi-C_(without_Hyadaruko)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hyadain no Kakakata☆Kataomoi-C",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/06_Hyadain_no_Kakakata☆Kataomoi-C_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hyadain no Kakakata☆Kataomoi-C (off vocal)",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/07_Hyadain_no_Kakakata☆Kataomoi-C_(off_vocal)_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hyadain no Kakakata☆Kataomoi-C (without Hyadaruko)",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/08_Hyadain_no_Kakakata☆Kataomoi-C_(without_Hyadaruko)_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hyadaruko no Kakakata☆Kataomoi-F",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/09_Hyadaruko_no_Kakakata☆Kataomoi-F_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hyadaruko no Kakakata☆Kataomoi-F (without Hyadain)",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/10_Hyadaruko_no_Kakakata☆Kataomoi-F_(without_Hyadain)_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mai no Kakakata☆Kataomoi-Bon",
+      "artist": "Hyadain",
+      "has_synced": false,
+      "path": "select/11_Mai_no_Kakakata☆Kataomoi-Bon_Hyadain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kataomoi",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_Kataomoi_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Coconut no Kataomoi",
+      "artist": "Meiko Nakahara",
+      "has_synced": false,
+      "path": "select/13_Coconut_no_Kataomoi_Meiko_Nakahara.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Namaeha Kataomoi",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/14_Namaeha_Kataomoi_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say My Name No Kataomoi",
+      "artist": "Lisa",
+      "has_synced": true,
+      "path": "select/15_Say_My_Name_No_Kataomoi_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kataomoi (カタオモイ) (5th Anniversary Live ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/16_Kataomoi_(カタオモイ)_(5th_Anniversary_Live_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kataomoi (Original Mix)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/17_Kataomoi_(Original_Mix)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kataomoi",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/18_Kataomoi_Chara.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Namae wa Kataomoi",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/19_Namae_wa_Kataomoi_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kataomoi",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Kataomoi_Aimer.txt"
+    }
+  ]
+}
